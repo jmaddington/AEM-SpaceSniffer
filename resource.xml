@@ -1,0 +1,13 @@
+<component info='CentraStage Component'>
+  <general>
+    <name>SpaceSniffer C</name>
+    <category>scripts</category>
+    <description>Runs SpaceSniffer on C drive and returns results</description>
+    <uid>1832bc06-0c6f-4398-92ba-0728560afb5a</uid>
+    <hash>b3a15c6c3ee816fc1af4292d851b2fd8</hash>
+    <version>6</version>
+    <timeout>3600</timeout>
+    <securityLevel>5</securityLevel>
+    <installType>batch</installType>
+  </general>
+</component>

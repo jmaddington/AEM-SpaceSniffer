@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exportConfig version="2">&#xD;
+<description>Grouped by folder</description>&#xD;
+<preferredFileName>File report</preferredFileName>&#xD;
+<preferredFileExtension>Text file (*.txt)|*.txt</preferredFileExtension>&#xD;
+<description>Grouped by folder</description>&#xD;
+<headerFormat></headerFormat>&#xD;
+<detailFormat>e3NjcmlwdH0NCnsgICBpZiB7PCVpc2ZpbGUlPn0gPT0ge3RydWV9DQogID8geyAgW3tsZWZ0&#xD;
+cGFkezwlZGlza3NpemUlPn17IH17OH19XSA8JWZpbGUlPnsmYnJ9fQ0KICA6IHsgICBpZiB7&#xD;
+PCVjb250YWluc2ZpbGVzJT59ID09IHt0cnVlfQ0KICAgICAgPyB7eyZicn08JXBhdGhmaWxl&#xD;
+JT4gWzwlZGlza3NpemUlPl17JmJyfX0NCiAgICB9DQp9&#xD;
+</detailFormat>&#xD;
+<footerFormat></footerFormat>&#xD;
+<blockSorting>files</blockSorting>&#xD;
+<fineSorting>size</fineSorting>&#xD;
+<fineSortingDirection>desc</fineSortingDirection>&#xD;
+</exportConfig>
